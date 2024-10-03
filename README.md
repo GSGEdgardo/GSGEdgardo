@@ -7,7 +7,7 @@ I'm a 24-year-old student pursuing a degree in Informatics and Computing Civil E
 - Cybersecurity
 - Game Design
 
-## Currently Learning
+## Currently Learning 🧠
 - C#
 - Unity
 - .NET
