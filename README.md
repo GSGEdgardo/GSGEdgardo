@@ -9,8 +9,9 @@ I'm a 24-year-old student pursuing a degree in Informatics and Computing Civil E
 
 ## Currently Learning 🧠
 - C#
-- Unity
 - .NET
+- Python
+- Optimization
 
 ## Certifications 💼
 
